@@ -18,7 +18,7 @@ mtcars %>%
   mutate(
     disp_x_cyl = disp * cyl
   ) %>% 
-  head()
+  head(3)
 ```
 
 
